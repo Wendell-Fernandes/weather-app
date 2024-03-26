@@ -1,0 +1,12 @@
+{
+	"semi": false,
+	"bracketSameLine": false,
+	"useTabs": true,
+	"singleQuote": true,
+	"bracketSpacing": true,
+	"experimentalTernaries": true,
+	"singleAttributePerLine": false,
+	"tabWidth": 3,
+	"printWidth": 110,
+	"arrowParens": "always"
+}
